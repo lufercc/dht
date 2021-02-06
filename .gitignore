@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+.idea/
+.run/
+
+#builds
+build/
+
+# Logs
+logs/
+*.log
+
+# reports
+reports/
+mochawesome-report/
+tmp/
+
+#pachage-lock.json
+package-lock.json
+/.nyc_output/*
+/coverage/*

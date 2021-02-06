@@ -1,0 +1,25 @@
+{
+  "name": "dht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "dependencies": {
+    "@wdio/cli": "^6.7.2",
+    "@wdio/cucumber-framework": "^6.7.0",
+    "@wdio/local-runner": "^6.7.2",
+    "@wdio/selenium-standalone-service": "^6.12.1",
+    "@wdio/spec-reporter": "^6.7.0",
+    "@wdio/sync": "^6.7.2",
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "chromedriver": "^87.0.5",
+    "json-query": "^2.2.2",
+    "module-alias": "^2.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
